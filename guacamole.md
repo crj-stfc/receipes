@@ -4,5 +4,7 @@
 * avocado
 * lime
 * water
+* salt
 ## Instructions
-* Grow my own avocados
+* Grow my own 
+* Worry about not being able to understand programming
